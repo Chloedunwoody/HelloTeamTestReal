@@ -10,7 +10,8 @@ namespace HelloTeamTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Nam"); 
+            Console.WriteLine("Hello Nam");
+            Console.WriteLine("I have made a change");
         }
     }
 }
